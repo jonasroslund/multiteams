@@ -7,8 +7,8 @@ Separate folders will be used to store data for the additional Microsoft Teams s
 
 # Usage
 ## Preparation
-1. Download [MultiTeams.vbs](https://github.com/jonasroslund/multiteams/blob/main/MultiTeams.vbs) to your desktop.
-2. Rename it to describe the additional setup, e.g. `MyOtherCompanyTeams.vbs`.
+1. Download [the repository from GitHub](https://github.com/jonasroslund/multiteams/archive/refs/heads/main.zip) and extract `MultiTeams.vbs` to your desktop.
+2. Rename `MultiTeams.vbs` to describe the additional setup, e.g. `MyOtherCompanyTeams.vbs`.
 
 ## Runtime
 1. Start Microsoft Teams as you normally do. This will open your default setup .
