@@ -23,9 +23,9 @@ If you need more simultaneous sessions, just save more copies of the script with
 MultiTeams.vbs creates a fake user profile folder. When Microsoft Teams starts, it will try to find its data in the fake profile folder. If the profile is empty, Microsoft Teams will set up a complete data structure to store data and start Microsoft Teams. If data exists from a previous session, Microsoft Teams will start a new session based on the fake profile folder.
 
 Calling the script without any argument/parameter will store data in a folder based on the script name:
-`C:\Users\<YourUserName>\AppData\Local\Microsoft\Teams\CustomProfiles\<ScriptName>`
+`C:\Users\<YourUserName>\AppData\Local\Microsoft\Teams\CustomProfiles\<ScriptName>`.
 
-To get more control of where to store data, see [Advanced usage](#advanced-usage)
+To get more control of where to store data, see [Advanced usage](#advanced-usage).
 
 # Advanced usage
 If you need more control over the name of the folder where the session is stored, you can call the script using one of alternatives below. You don't need to change the script name in the preparation phase for the advanced usage, as the folder name will be decided by the script argument.
@@ -35,7 +35,7 @@ If you need more control over the name of the folder where the session is stored
 ```
 MultiTeams.vbs MySecondCompany
 ```
-This will store session data in `C:\Users\<YourUserName>\AppData\Local\Microsoft\Teams\CustomProfiles\MySecondCompany`
+This will store session data in `C:\Users\<YourUserName>\AppData\Local\Microsoft\Teams\CustomProfiles\MySecondCompany`.
 
 Tip: Store the script in a folder of your choice and create a desktop shortcut with a reference to the script with the folder name as an argument.
 
@@ -43,7 +43,7 @@ Tip: Store the script in a folder of your choice and create a desktop shortcut w
 ```
 MultiTeams.vbs C:\MyTeamsData\MySecondCompany
 ```
-This will store session data in `C:\MyTeamsData\MySecondCompany`
+This will store session data in `C:\MyTeamsData\MySecondCompany`.
 
 Tip: Store the script in a folder of your choice and create a desktop shortcut with a reference to the script with the full path as an argument.
 
