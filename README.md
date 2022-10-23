@@ -7,8 +7,8 @@ Separate folders will be used to store data for the additional Microsoft Teams s
 
 # Usage
 ## Preparation
-1. Download [the MultiTeams repository from GitHub](https://github.com/jonasroslund/multiteams/archive/refs/heads/main.zip)
-2. Extract `MultiTeams.vbs` to your desktop.
+1. Download [the MultiTeams zip file](https://github.com/jonasroslund/multiteams/archive/refs/heads/main.zip).
+2. Extract `MultiTeams.vbs` from the zip file to your desktop.
 3. Rename `MultiTeams.vbs` to describe the additional setup, e.g. `MyOtherCompanyTeams.vbs`.
 
 ## Runtime
