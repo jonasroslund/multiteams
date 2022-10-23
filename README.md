@@ -1,6 +1,6 @@
 # MultiTeams
 This script allows you to use multiple sessions of Microsoft Teams simultaneously. Each session can be logged in with different accounts or guest accounts. Some use cases are:
-* You have been invited as a guest user in business partner's team and want access both the business partner's team and your company's teams simultaneously.
+* You have been invited as a guest user in business partner's team and want to access both the business partner's team as guest and your company's teams simultaneously.
 * You have multiple Microsoft 365 accounts and need to be logged in to several Teams sessions simultaneously.
 
 Separate folders will be used to store data for the additional Microsoft Teams sessions.
